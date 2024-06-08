@@ -1,0 +1,1 @@
+Perancangan Website Agro Jember Konektif (AJEKTIF) yang merupakan sistem pengajuan bantuan alat mesin pertanian bagi kelompok tani dan pelatihan pertanian bagi khalayak umum. Website ini dirancang dengan 3 hak akses, yaitu ketua kelompok tani, balai penyuluh pertanian, dan dinas pertanian
